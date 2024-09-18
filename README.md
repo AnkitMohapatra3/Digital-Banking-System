@@ -59,7 +59,7 @@ The **Online Banking System** is a secure, web-based platform that provides bank
    spring.datasource.password=password
    spring.jpa.hibernate.ddl-auto=update
 
-## Database Setup
+### Database Setup
 
 1.**Create a MySQL database:**
    
